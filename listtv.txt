@@ -1,0 +1,587 @@
+﻿
+[
+{
+"name":"VTV 1", 
+"ID":"backup_vnpt/1*https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html*https://tvplay.vn/truyen-hinh-70.htm*hplus/2128*KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/vtv/vtv11.php*http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-1.html*hplus/2128*vnpt/1*vietel/1001*vnpt/1", 
+"logo":"VTV1.png", 
+"backup":"vnpt/1*vietel/1001", 
+"remote":"001"
+},
+
+{
+"name":"VTV 2", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html*http://tvplay.vn/truyen-hinh-71.htm*backupvnpt/2*vietel/2*vnpt/2", 
+"logo":"VTV2.png", 
+"backup":"vnpt/2*vietel/2",
+"remote":"002"
+},
+
+{
+"name":"VTV 3", 
+"ID":"backup_vnpt/3*http://tvplay.vn/truyen-hinh-20.htm*KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/vtv/vtv3_1.php*https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html*vnpt/3*vietel/1090", 
+"logo":"VTV3.png", 
+"backup":"vnpt/3*vietel/1090", 
+"remote":"003"
+},
+{
+"name":"VTV 4", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html*backup_vnpt/4*vietel/183647*vnpt/4*http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV4-4.html", 
+"logo":"VTV4.png", 
+"backup":"vnpt/4*vietel/183647",
+"remote":"004"
+},
+
+{
+"name":"VTV 5", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html*backup_vnpt/99*vietel/183648*vnpt/99", 
+"logo":"VTV5.png", 
+"backup":"vnpt/99*vietel/183648", 
+"remote":"005"
+},
+{
+"name":"VTV 6", 
+"ID":"backup_vnpt/6*http://tvplay.vn/truyen-hinh-74.htm*https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html*vnpt/6", 
+"logo":"VTV6.png", 
+"backup":"vnpt/6*vietel/1018", 
+"remote":"006"
+},
+{
+"name":"VTV 7", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html*backup_vnpt/97*vnpt/97", 
+"logo":"VTV7.png", 
+"backup":"vnpt/97",
+"remote":"007"
+},
+
+{
+"name":"VTV 8", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html*backupvnpt/95*vietel/208718*vnpt/95", 
+"logo":"VTV8.png", 
+"backup":"vnpt/95*vietel/208718", 
+"remote":"008"
+},
+
+{
+"name":"VTV 9", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html*backupvnpt/7*vietel/183646*vnpt/7", 
+"logo":"VTV9.png", 
+"backup":"vnpt/7*vietel/183646", 
+"remote":"009"
+},
+
+{
+"name":"Vĩnh Long 1", 
+"ID":"https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-1-%C4%90%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-v%C4%A9nh-long-131.html*KSD@http://hkeyboard.com/api/thvli1*KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/sctv/vinhlong1_1.php*hplus/899*backupvnpt/70*vietel/208713*vnpt/70", 
+"logo":"THVL1.png", 
+"backup":"vnpt/70*vietel/208713", 
+"remote":"010"
+},
+{
+"name":"Vĩnh Long 2", 
+"ID":"KSD@http://hkeyboard.com/api/thvli2*hplus/52406*backupvnpt/71*vietel/158414*vnpt/71", 
+"logo":"THVL2.png", 
+"backup":"vnpt/71*vietel/158414", 
+"remote":"011"
+},
+{
+"name":"Phim Hay (Test)", 
+"ID":"http://talktv.vn/1102578626*http://tvplay.vn/truyen-hinh-174.htm", 
+"logo":"VTV1.png", 
+"backup":"KSD@http://174.138.24.109/phimhot.php", 
+"remote":"99"
+},
+{
+"name":"Phim Hot 1 (Test)", 
+"ID":"KSD@http://174.138.24.109/phimhot.php*KSD@http://174.138.24.109/phimhot2.php", 
+"logo":"VTV1.png", 
+"backup":"KSD@http://174.138.24.109/phimhot.php", 
+"remote":"100"
+},
+{
+"name":"Phim Hot 2 (Test)", 
+"ID":"KSD@http://174.138.24.109/phimhot2.php", 
+"logo":"VTV1.png", 
+"backup":"KSD@http://174.138.24.109/phimhot2.php", 
+"remote":"101"
+},
+{
+"name":"HTV 1", 
+"ID":"vnpt/118*vietel/1000*hplus/2631", 
+"logo":"HTV1.png", 
+"backup":"vnpt/118*vietel/1000", 
+"remote":"012"
+},
+{
+"name":"HTV 2", 
+"ID":"vietel/1009*hplus/2630", 
+"logo":"HTV2.png", 
+"backup":"vnpt/11*vietel/1009",
+"remote":"013" 
+},
+
+{
+"name":"HTV 3", 
+"ID":"vietel/1008*hplus/2535", 
+"logo":"HTV3.png", 
+"backup":"vnpt/13*vietel/1008",
+"remote":"014" 
+},
+
+{
+"name":"HTV 4", 
+"ID":"vietel/1010*hplus/2528", 
+"logo":"HTV4.png", 
+"backup":"vnpt/119*vietel/1010",
+"remote":"015"  
+},
+
+{
+"name":"HTV 7", 
+"ID":"KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/htv/htv7_1.php*vietel/1039*hplus/10036", 
+"logo":"HTV7_SD.png", 
+"backup":"vnpt/15*vietel/1039",
+"remote":"016"  
+},
+
+{
+"name":"HTV 9", 
+"ID":"KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/htv/htv9_1.php*hplus/10037*vietel/1038*hplus/10037", 
+"logo":"HTV9_SD.png", 
+"backup":"vnpt/10*vietel/1038",
+"remote":"017"  
+},
+
+{
+"name":"HTV7 HD", 
+"ID":"KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/htv/htv7_1.php*vietel/1039*hplus/10036", 
+"logo":"HTV7.png", 
+"backup":"vnpt/15*vietel/1039",
+"remote":"018"  
+},
+
+{
+"name":"HTV9 HD", 
+"ID":"KSD@http://hkeyboard.com/api/tv101_simplest?original=http://tv.101vn.com/ok/htv/htv9_1.php*vietel/1038*vnpt/10*hplus/10037", 
+"logo":"HTV9.png", 
+"backup":"vnpt/10*vietel/1038", 
+"remote":"019" 
+},
+
+{
+"name":"HTV Thể Thao", 
+"ID":"vietel/1011*vnpt/120*hplus/2400", 
+"logo":"HTVTT.png", 
+"backup":"vnpt/120*vietel/1011", 
+"remote":"020"
+},
+
+{
+"name":"HTV Coop", 
+"ID":"hplus/31973", 
+"logo":"HTVCOOP.png", 
+"backup":" ",
+"remote":"021"
+},
+
+{
+"name":"HTVC Phim", 
+"ID":"hplus/2397", 
+"logo":"HTVC_PHIM.png", 
+"backup":" ", 
+"remote":"022"
+},
+
+{
+"name":"HTVC Thuần Việt", 
+"ID":"hplus/2396", 
+"logo":"HTVC_THUANVIET_SD.png", 
+"backup":" ",
+"remote":"023" 
+},
+
+{
+"name":"HTVC Shopping", 
+"ID":"hplus/2265", 
+"logo":"HTVC_SHOPPING.png", 
+"backup":" ",
+"remote":"024" 
+},
+
+{
+"name":"VTC 1", 
+"ID":"http://tv.101vn.com/ok/vtc/vtc1_1.php*vietel/1016*vnpt/12*hplus/50075", 
+"logo":"VTC1_HD.png", 
+"backup":" ",
+"remote":"025"
+},
+
+{
+"name":"VTC 3", 
+"ID":"http://tvplay.vn/truyen-hinh-81.htm*vietel/42*vnpt/16*hplus/2058", 
+"logo":"VTC3.png", 
+"backup":"vnpt/16*vietel/42",
+"remote":"026" 
+},
+
+{
+"name":"VTC 4", 
+"ID":"vnpt/17*hplus/2057", 
+"logo":"VTC4.png", 
+"backup":" ",
+"remote":"027" 
+},
+
+{
+"name":"VTC 10", 
+"ID":"vnpt/25*vietel/9*hplus/2051", 
+"logo":"VTC10.png", 
+"backup":" ",
+"remote":"028" 
+},
+
+{
+"name":"VTC 11", 
+"ID":"vnpt/27*hplus/50071", 
+"logo":"VTC11.png", 
+"backup":" ",
+"remote":"029"
+},
+
+{
+"name":"VTC 14", 
+"ID":"vnpt/30*hplus/50074", 
+"logo":"VTC14_HD.png", 
+"backup":" ",
+"remote":"030" 
+},
+
+{
+"name":"VTC 16", 
+"ID":"vnpt/31*hplus/50072", 
+"logo":"VTC16.png", 
+"backup":" ",
+"remote":"031" 
+},
+
+{
+"name":"Đà Nẵng 1", 
+"ID":"vietel/198986*hplus/3268", 
+"logo":"DANANG1.png", 
+"backup":" ",
+"remote":"032" 
+},
+
+{
+"name":"Đà Nẵng 2", 
+"ID":"hplus/53529*vietel/198986", 
+"logo":"DANANG2.png", 
+"backup":" ",
+"remote":"033" 
+},
+
+{
+"name":"Bến Tre", 
+"ID":"vietel/199000*vnpt/72*hplus/61299", 
+"logo":"THBT.png", 
+"backup":" ",
+"remote":"034"
+},
+
+{
+"name":"An Giang", 
+"ID":"vietel/198995*vnpt/73*hplus/51818", 
+"logo":"ATV.png", 
+"backup":" ",
+"remote":"035" 
+},
+
+{
+"name":"Nhân Dân", 
+"ID":"vnpt/100*hplus/50201", 
+"logo":"NHANDAN.png", 
+"backup":" ",
+"remote":"036" 
+},
+
+{
+"name":"Lâm Đồng", 
+"ID":"vietel/198999*hplus/55163", 
+"logo":"LTV.png", 
+"backup":" ",
+"remote":"037" 
+},
+
+{
+"name":"Quốc Hội", 
+"ID":"vnpt/98*hplus/50069", 
+"logo":"QUOCHOI.png", 
+"backup":" ",
+"remote":"038"
+},
+
+{
+"name":"Miền Tây", 
+"ID":"vnpt/51*hplus/50065", 
+"logo":"MIENTAY.png", 
+"backup":" ",
+"remote":"039" 
+},
+
+{
+"name":"Long An", 
+"ID":"vietel/198988*vnpt/110*hplus/873", 
+"logo":"LA34.png", 
+"backup":" ",
+"remote":"040"
+},
+
+{
+"name":"Đồng Tháp", 
+"ID":"vietel/198987*vnpt/107*hplus/1788", 
+"logo":"DONGTHAP.png", 
+"backup":" ",
+"remote":"041" 
+},
+
+{
+"name":"Bình Dương 1", 
+"ID":"vnpt/94*hplus/1907*vietel/69520", 
+"logo":"BTV1.png", 
+"backup":" ",
+"remote":"042" 
+},
+
+{
+"name":"Bình Dương 2", 
+"ID":"vnpt/103*hplus/23963*vietel/69520", 
+"logo":"BTV2.png", 
+"backup":" ",
+"remote":"043"
+},
+
+{
+"name":"Kiên Giang", 
+"ID":"vietel/198997*vnpt/74*hplus/774", 
+"logo":"KienGiang.png", 
+"backup":" ",
+"remote":"044" 
+},
+
+{
+"name":"Cần Thơ", 
+"ID":"vietel/198996*vnpt/8*hplus/1980", 
+"logo":"CanTho.png", 
+"backup":" ",
+"remote":"045" 
+},
+
+{
+"name":"Hà Tĩnh", 
+"ID":"vietel/174638*hplus/7796", 
+"logo":"HaTinh.png", 
+"backup":" ",
+"remote":"046" 
+},
+
+{
+"name":"Huế", 
+"ID":"hplus/1283", 
+"logo":"Hue.png", 
+"backup":" ",
+"remote":"047"
+},
+
+{
+"name":"Bình Phước", 
+"ID":"vietel/198998*vnpt/105*hplus/877", 
+"logo":"BinhPhuoc1.png", 
+"backup":" ",
+"remote":"048" 
+},
+
+{
+"name":"Bà Rịa", 
+"ID":"vietel/198989*vnpt/69*hplus/1982", 
+"logo":"BaRia.png", 
+"backup":" ",
+"remote":"049" 
+},
+
+{
+"name":"Kiên Giang 1", 
+"ID":"vietel/198997*vnpt/74*hplus/6917", 
+"logo":"KienGiang1.png", 
+"backup":" ",
+"remote":"050" 
+},
+
+{
+"name":"Hậu Giang", 
+"ID":"vietel/198994*vnpt/106*hplus/762", 
+"logo":"HauGiang.png", 
+"backup":" ",
+"remote":"051" 
+},
+
+{
+"name":"Trà Vinh", 
+"ID":"vietel/172492*vnpt/72*hplus/3254", 
+"logo":"TraVinh.png", 
+"backup":" ",
+"remote":"052" 
+},
+
+{
+"name":"Tây Ninh", 
+"ID":"hplus/1981", 
+"logo":"TayNinh.png", 
+"backup":" ",
+"remote":"053" 
+},
+
+{
+"name":"Khánh Hòa", 
+"ID":"vietel/174637*vnpt/166*hplus/1979", 
+"logo":"KhanhHoa.png", 
+"backup":" ",
+"remote":"054"
+},
+
+{
+"name":"Bình Định", 
+"ID":"hplus/1955", 
+"logo":"BinhDinh.png", 
+"backup":" ",
+"remote":"055"
+},
+
+{
+"name":"Nam Định", 
+"ID":"hplus/1951", 
+"logo":"NamDinh.png", 
+"backup":" ",
+"remote":"056" 
+},
+
+{
+"name":"Cà Mau", 
+"ID":"hplus/1903", 
+"logo":"CaMau.png", 
+"backup":" ",
+"remote":"057"
+},
+
+{
+"name":"Lào Cai", 
+"ID":"hplus/1789", 
+"logo":"LaoCai.png", 
+"backup":" ",
+"remote":"058" 
+},
+
+{
+"name":"Quảng Nam", 
+"ID":"hplus/1787", 
+"logo":"QuangNam.png", 
+"backup":" ",
+"remote":"059"
+},
+
+{
+"name":"Sóc Trăng", 
+"ID":"vnpt/109*hplus/1786", 
+"logo":"SocTrang.png", 
+"backup":" ",
+"remote":"060" 
+},
+
+{
+"name":"Đắc Lắc", 
+"ID":"vietel/208712*hplus/1785", 
+"logo":"DacLac.png", 
+"backup":" ",
+"remote":"061"
+},
+
+{
+"name":"Đắc Nông", 
+"ID":"vietel/199001*hplus/1785", 
+"logo":"DacNong.png", 
+"backup":" ",
+"remote":"062" 
+},
+
+{
+"name":"Bắc Giang", 
+"ID":"vietel/174631*hplus/1210", 
+"logo":"BacGiang.png", 
+"backup":" ",
+"remote":"063"
+},
+
+{
+"name":"Bạc Liêu", 
+"ID":"vnpt/101*hplus/872", 
+"logo":"BacLieu.png", 
+"backup":" ",
+"remote":"064"
+},
+
+{
+"name":"Hải Dương", 
+"ID": "vnpt/165*hplus/871", 
+"logo":"HaiDuong.png", 
+"backup":" ",
+"remote":"065"
+},
+
+{
+"name":"Ninh Bình", 
+"ID":"vietel/69521*vnpt/50*hplus/868", 
+"logo":"NinhBinh.png", 
+"backup":" ",
+"remote":"066"
+},
+{
+"name":"Today TV", 
+"ID":"vietel/39*vnpt/21", 
+"logo":"NinhBinh.png", 
+"backup":" ",
+"remote":"067"
+},
+{
+"name":"FBNC TV", 
+"ID":"vietel/18181*vnpt/130", 
+"logo":"NinhBinh.png", 
+"backup":" ",
+"remote":"068"
+},
+{
+"name":"Tiền Giang", 
+"ID":"vietel/172491*vnpt/114", 
+"logo":"NinhBinh.png", 
+"backup":" ",
+"remote":"069"
+},
+{
+"name":"ANTV - An Ninh", 
+"ID":"vietel/1014*vnpt/32*hplus/73411", 
+"logo":"NinhBinh.png", 
+"backup":" ",
+"remote":"070"
+},
+{
+"name":"Quốc Phòng", 
+"ID": "vietel/18563*vnpt/34*hplus/50068", 
+"logo":"HaiDuong.png", 
+"backup":" ",
+"remote":"071"
+},
+{
+"name":"Cà Mau", 
+"ID": "YOUTUBE@VNdrYVaLKwk*VLC@http://42.119.57.147:4022/udp/225.1.1.104:30120", 
+"logo":"HaiDuong.png", 
+"backup":" ",
+"remote":"072"
+}
+]
